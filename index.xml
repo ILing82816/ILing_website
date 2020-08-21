@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on I-Ling Yeh</title>
+    <link>https://iling82816.github.io/ILing_website/</link>
+    <description>Recent content in Data Science Portfolio on I-Ling Yeh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Aug 2020 11:15:58 -0400</lastBuildDate>
+    
+	<atom:link href="https://iling82816.github.io/ILing_website/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 9: Annual Salary Estimator</title>
+      <link>https://iling82816.github.io/ILing_website/post/project-9/</link>
+      <pubDate>Fri, 07 Aug 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://iling82816.github.io/ILing_website/post/project-9/</guid>
+      <description>Insight the customers&amp;rsquo; transactions behavior, some interesting thing I observation. The avarage transaction volumn by each customer is 35 times, and people like to purchase thing in Wed. and Fri. Depond on my observation, I predicted the customers&amp;rsquo; annual salary for helping banking can segment customers into income brackets. In this project, I use python and Google Map Api to draw the transaction location. To improve my model accuracy, tring seveary models to classificate customers&amp;rsquo; transactions behavior.</description>
+    </item>
+    
+    <item>
+      <title>Project 8: Airbnb Price Estimator</title>
+      <link>https://iling82816.github.io/ILing_website/post/project-8/</link>
+      <pubDate>Fri, 10 Jul 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://iling82816.github.io/ILing_website/post/project-8/</guid>
+      <description>What factors do the house rents have more higher? In order to understant, I scraped over 1000 house descriptions from Airbnb. After insighting these informaiton, I predicted the rent of houses for helping hosts change the type of house or location to raise 68% house rent. In this project, I use python and beaurifulsoup to decode the html for scraping website. To improve our model accuracy, doing seveary ways encode categorical objects.</description>
+    </item>
+    
+    <item>
+      <title>Project 7: Crude Oil WTI Price Estimator</title>
+      <link>https://iling82816.github.io/ILing_website/post/project-7/</link>
+      <pubDate>Sat, 20 Jun 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://iling82816.github.io/ILing_website/post/project-7/</guid>
+      <description>At the beginning of this year, the pandemic occurred and the government announced a lockdown. I wondered about the fluctuation of oil price because of the pandemic. I also want to forecast the oil price at the end of this year. So, scraped over 25 years economic indicators and crude oil prices and tried time series data related algorithms to forecast. I expect that the price of oil will have 18% upside in the end of 2020.</description>
+    </item>
+    
+    <item>
+      <title>Project 6: Data Science Image Clustering</title>
+      <link>https://iling82816.github.io/ILing_website/post/project-6/</link>
+      <pubDate>Sat, 30 May 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://iling82816.github.io/ILing_website/post/project-6/</guid>
+      <description>Created a tool that clustering image (Accuracy 77%) to help platform classifying image when users upload pictures. Built up Autoencoder with Convolutional Neural Network model to extract feature from image. Wrote Gradient Descent algorithm to approach minimize loss function by using PyTorch. Reduced internal layer dimension by using PCA and t-SNE. Used K-Means to cluster.    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 5: A Poll of Presidential Candidate by Twitter Sentiment Classification</title>
+      <link>https://iling82816.github.io/ILing_website/post/project-5/</link>
+      <pubDate>Wed, 13 May 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://iling82816.github.io/ILing_website/post/project-5/</guid>
+      <description>Amarican presidential election will come in november, 2020. Through the trade war with China, George Floyd protest, does the president Trump cam win the election and continus in office? In order to understant, I scraped over 10000 tweets from Airbnb. After insighting these tweets, he lose up to 20% positive discussions in 2020 than in 2016. I thought Trump need to effort to win people back hardly. In this project, I use python and GetOldTweets3 to decode the html for scraping website.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Cardiovascular Disease Classification</title>
+      <link>https://iling82816.github.io/ILing_website/post/project-4/</link>
+      <pubDate>Tue, 14 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://iling82816.github.io/ILing_website/post/project-4/</guid>
+      <description>According to the CDC, approximately 647,000 have suffered from Cardiovascular Disease in America each year, and the death rate is up to 25% of each patient. This is a common disease among middle-aged people and elders which is closely related to our family members and maybe ourselves health situation in the future. To reduce the rate of catching Cardiovascular Diseases, we analyze the real-world patients�� information to find the path for predicting the probability of having the disease.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Log Analyze with Spark</title>
+      <link>https://iling82816.github.io/ILing_website/post/project-3/</link>
+      <pubDate>Tue, 31 Mar 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://iling82816.github.io/ILing_website/post/project-3/</guid>
+      <description>We set up the spark system. We develop scala to do the simple linear regression on the logs using Spark MLlib.
+Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Length of Stay Post-surgery Prediction</title>
+      <link>https://iling82816.github.io/ILing_website/post/project-2/</link>
+      <pubDate>Tue, 24 Mar 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://iling82816.github.io/ILing_website/post/project-2/</guid>
+      <description>Created a tool that predicting data science the lenght of stay post-surgery to identify the risk of surgery (Accuray 86%) to help doctors evaluate the risk of surgery in the future. Used a real, anonymized dataset provided by UPMC regarding surgical procedures between June 2017 and June 2018. Filled missing features by mode or mean value. Optimized Logistic Regressor, Random Forest, XGBoost, and LightGBM using Hyperopt to reach the best model.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Log Analyze with Hadoop</title>
+      <link>https://iling82816.github.io/ILing_website/post/project-1/</link>
+      <pubDate>Wed, 12 Feb 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://iling82816.github.io/ILing_website/post/project-1/</guid>
+      <description>We built up the cluster in hadoop. We wrote MapReduce algorithm by JAVA for analyzing a real anonymous logs and answering following questions:
+ How many hits were made to the website item “/assets/img/home-logo.png? How many hits were made from the IP: 10.153.239.5? Which path in the website has been hit most? How many hits were made to the path? Which IP accesses the website most? How many accesses were made by it?</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://iling82816.github.io/ILing_website/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iling82816.github.io/ILing_website/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     LinkedIn: https://www.linkedin.com/in/ilingyeh   GitHub: https://github.com/ILing82816    </description>
+    </item>
+    
+  </channel>
+</rss>
